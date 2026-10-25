@@ -3,4 +3,8 @@ package ejemplo;
 public class Ejemplo {
 int semana; 
 String domingo; 
+byte comand; 
+public Ejemplo(int semana) {
+	this.semana=semana; 
+}
 }
