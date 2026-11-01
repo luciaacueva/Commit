@@ -7,4 +7,6 @@ byte comand;
 public Ejemplo(int semana) {
 	this.semana=semana; 
 }
+String endocrino; 
+int cambio; 
 }
