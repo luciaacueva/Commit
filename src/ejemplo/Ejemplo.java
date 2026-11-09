@@ -9,4 +9,6 @@ public Ejemplo(int semana) {
 }
 String endocrino; 
 int cambio; 
+int lunes; 
+String sema; 
 }
