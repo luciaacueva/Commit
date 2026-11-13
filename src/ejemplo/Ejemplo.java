@@ -11,4 +11,6 @@ String endocrino;
 int cambio; 
 int lunes; 
 String sema; 
+int aburrido; 
+int uno; 
 }
